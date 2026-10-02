@@ -6,7 +6,9 @@ Researchers within HOST work on complex systems made up of many integrated compo
 
 > **Focus:** System performance, resource consumption, scalability, and quality of service in complete, integrated systems.
 
-> **Looking for other Simula-wide repositories?** They are hosted in the [simula organization](https://github.com/simula).
+> **Looking for other repositories?**
+> - SimulaMet-specific repos: [github.com/SimulaMet](https://github.com/SimulaMet)
+> - Simula-wide repos: [github.com/simula](https://github.com/simula)
 
 - **Department page:** [simulamet.no — Holistic Systems](https://www.simulamet.no/research/research-departments/holistic-systems)
 - **SimulaMet:** [github.com/SimulaMet](https://github.com/SimulaMet)
